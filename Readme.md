@@ -12,14 +12,14 @@ Extract the files in the directory to any location, as long as you can GET or PO
  - index.php
  - wordlist.txt
 
-Where *wordlist.txt* can be changed to any name according to your needs, you only need to modify it in line 12 of the index.php code:
+Where *wordlist.txt* can be changed to any name according to your needs, you only need to modify it in line 10 of the index.php code:
 
     $file = file($path."/wordlist.txt");
 ## Customize the contents of random output
-This project has pre-stored some natural statements in *wordlist.txt*, all of which come from the popular Chinese online novels "**Xiling Empire**" and "**Yìcháng shēngwù jiànwén lù**", if you like these Sentence, may wish to support the original author [Yuan Tong] (https://my.qidian.com/author/4362948).
+This project has pre-stored some natural statements in *wordlist.txt*, all of which come from the popular Chinese online novels "**Xiling Empire**" and "**Yìcháng shēngwù jiànwén lù**", if you like these Sentence, may wish to support the original author [Yuan Tong](https://my.qidian.com/author/4362948).
 List of cited books:
- 1. [Xiling Empire] (https://book.qidian.com/info/1463673)
- 2. [Yìcháng shēngwù jiànwén lù] (https://book.qidian.com/info/3242304)
+ 1. [Xiling Empire](https://book.qidian.com/info/1463673)
+ 2. [Yìcháng shēngwù jiànwén lù](https://book.qidian.com/info/3242304)
 
 The program will randomly read a line of text output, that is, the statement is limited to one line per line. No line break will output the entire line of text.
 ## Output content to the specified location on the page
@@ -32,8 +32,8 @@ Replace https://api.exmaple.com/oneword/index.php in the src definition in the s
 ## Open source statement
 This project uses MIT License. Please follow the agreement during secondary development. If you think the project is good, you don't need to donate, just use and promote our service to your friends:
 
- - [VikACG For Web - Happy Home of ACGer] (https://www.vikacg.com)
- - [VikACG Mobile App - Discover ACG resources anytime, anywhere] (https://app.vikacg.com)
+ - [VikACG For Web - Happy Home of ACGer](https://www.vikacg.com)
+ - [VikACG Mobile App - Discover ACG resources anytime, anywhere](https://app.vikacg.com)
 
 In the end, thank you for choosing this open source program.
 # 简体中文
@@ -43,7 +43,7 @@ In the end, thank you for choosing this open source program.
  - index.php
  - wordlist.txt
 
-其中 *wordlist.txt* 可以根据您的需求更改为任何名称，您仅需要在index.php的代码的第12行修改即可：
+其中 *wordlist.txt* 可以根据您的需求更改为任何名称，您仅需要在index.php的代码的第10行修改即可：
 
     $file = file($path."/wordlist.txt");
 ## 自定义随机输出的内容
@@ -75,7 +75,7 @@ In the end, thank you for choosing this open source program.
  - index.php
  - wordlist.txt
 
-其中 *wordlist.txt* 可以根據您的需求更改為任何名稱，您僅需要在index.php的代碼的第12行修改即可：
+其中 *wordlist.txt* 可以根據您的需求更改為任何名稱，您僅需要在index.php的代碼的第10行修改即可：
 
     $file = file($path."/wordlist.txt");
 ## 自定義隨機輸出的內容
